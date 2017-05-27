@@ -1,0 +1,49 @@
+#app .content{padding: 0 15px;}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.btn.btn-warning.btn-block{background-color: #55ACEE; border-color: #55ACEE;}
+.user-title-inner {
+	text-align: center;
+	margin-bottom: 40px;
+}
+#app .box-body .input-box{margin-bottom: 20px;}
+.box-footer {
+    margin: 0 auto;
+    text-align: center;
+    border-top: 1px solid #ebebeb;
+    padding-top: 20px;
+}
+.form-filter::after, .form-filter::before {
+    content: "";
+    display: block;
+    clear: both;
+}
+.form-filter {
+    border: 1px solid #ebebeb;
+    padding: 15px;
+}
+.box-footer .pull-left {
+    float: none !important;
+}
+.panel-title {
+    margin-bottom: 20px;
+}
+.form-inline .btn.btn-success {
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+    display: block;
+}
+.box-header .panel-title strong {
+    color: blue;
+}
+.btn-group-login .btn {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    margin: 0;
+}
+.alert{
+    border-radius: 0px !important;
+}

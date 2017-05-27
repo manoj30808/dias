@@ -1,2 +1,3 @@
-# dias
-laravel 5.4 basic login,register,login wih social,role and permission
+## About CURD
+
+this is full configured with login, register, social login (like: google,facebook,twitter,pinterest)
